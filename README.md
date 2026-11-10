@@ -17,10 +17,13 @@ Pesquisadora em Machine Learning no LEA/UFPA (bolsista CNPq), formando em Engenh
 ### 🛠️ Projetos
 | Projeto | O que é | Stack |
 |---|---|---|
+| [RAG para redes ópticas](https://github.com/elleoliveir/rag-optical-monitoring) | Perguntas em linguagem natural sobre telemetria de rede óptica, comparando respostas com e sem RAG | Python · FAISS · Ollama |
 | [Chatbot com LLM local](https://github.com/elleoliveir/chatbot-llm-local) | Chatbot com Llama 3.2 rodando no Ollama, com histórico persistente | Python · Ollama |
-| Zetta *(repositório da equipe, privado)* | App que detecta sonolência e distração de motoristas | Flask · OpenCV · MediaPipe · React Native |
+| [UFPA Digital](https://github.com/elleoliveir/UFPA-digital) *(em desenvolvimento)* | Assistente web para dúvidas sobre regimento e editais da UFPA | Python · Flask · LangChain |
+| [RL no FrozenLake](https://github.com/elleoliveir/projetos-RL) | Comparação entre PPO, A2C e DQN em ambiente estocástico | Python · Gymnasium · Stable-Baselines3 |
+| [Marble Time Rush](https://github.com/elleoliveir/marble-run) | Jogo 3D sem engine, com shadow mapping, física e editor de fases | C++ · OpenGL · GLSL |
 | [Missão Espacial](https://github.com/Filipecorr34/Missao-Espacial) | Jogo 2D com motor gráfico próprio e shaders GLSL | Python · OpenGL |
-| Assistente com RAG *(em breve)* | Responde dúvidas com base nas diretrizes oficiais da UFPA | Python · LLM local · RAG |
+| Zetta *(repositório da equipe, privado)* | App que detecta sonolência e distração de motoristas | Flask · OpenCV · MediaPipe · React Native |
 
 ### 📄 Publicações
 - *A Comparative Study on Semi-Supervised Learning Algorithms for Fault Management in Optical Networks*, JCIS 2026
@@ -29,7 +32,7 @@ Pesquisadora em Machine Learning no LEA/UFPA (bolsista CNPq), formando em Engenh
 
 ### 🧰 Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=python,opencv,flask,react,nodejs,c,arduino,java,swift,git,github,latex&theme=light" alt="Python, OpenCV, Flask, React Native, Node.js, C, Arduino, Java, Swift, Git, GitHub, LaTeX">
+  <img src="https://skillicons.dev/icons?i=python,cpp,opencv,flask,react,nodejs,c,arduino,java,swift,git,github,latex&theme=light" alt="Python, C++, OpenCV, Flask, React Native, Node.js, C, Arduino, Java, Swift, Git, GitHub, LaTeX">
 </p>
 
 ### 🌱 Fora do código

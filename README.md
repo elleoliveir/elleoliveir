@@ -26,7 +26,6 @@ Pesquisadora em Machine Learning no LEA/UFPA (bolsista CNPq), formando em Engenh
 | Zetta *(repositório da equipe, privado)* | App que detecta sonolência e distração de motoristas | Flask · OpenCV · MediaPipe · React Native |
 
 ### 📄 Publicações
-- *A Comparative Study on Semi-Supervised Learning Algorithms for Fault Management in Optical Networks*, JCIS 2026
 - *Data-Constrained Semi-Supervised Approaches for Optical Network Fault Detection*, SBrT 2025
 - *A Comparative Study on Principal Components Analysis for Failure Detection in Optical Networks*, SBrT 2024
 
@@ -36,9 +35,9 @@ Pesquisadora em Machine Learning no LEA/UFPA (bolsista CNPq), formando em Engenh
 </p>
 
 ### 🌱 Fora do código
-- 🤖 Faço parte do **IAÇÁ**, o grupo feminino de robótica da UFPA (fui capitã de programação em 2024). Mais mulheres na tecnologia, sempre.
-- 👩‍🏫 Adoro ensinar: já ministrei minicursos de Python e Arduino e fui monitora de Projeto de Engenharia I
-- 🎮 Jogos e computação gráfica: shaders, pixel art e física feita na mão
+- 🤖 Fiz parte do **IAÇÁ**, o grupo feminino de robótica da UFPA, por 3 anos (fui capitã da equipe de programação em 2024). Por mais mulheres em cursos STEM, sempre.
+- 👩‍🏫 Adoro ensinar: já ministrei minicursos de Python e de Arduino. 
+- 🎮 Jogos e computação gráfica: shaders, pixel art e física feita à mão
 - 🌍 Português nativo, inglês B2 e francês em andamento
 
 ### 📊 Estatísticas
@@ -51,5 +50,5 @@ Pesquisadora em Machine Learning no LEA/UFPA (bolsista CNPq), formando em Engenh
   <a href="mailto:adryelecosta0000@gmail.com">E-mail</a> ·
   <a href="http://lattes.cnpq.br/1980321616960828">Lattes</a> ·
   <a href="https://elleoliveir.github.io">Portfólio</a> ·
-  LinkedIn (inserir)
+  <a href="www.linkedin.com/in/adryele-oliveira-614496235">LinkedIn</a> · 
 </p>

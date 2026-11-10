@@ -12,7 +12,7 @@
  | 91% Engenheira da Computação - UFPA
  | Futura Mestranda em Inteligência Computacional
 
-Pesquisadora na linha de Inteligência Artificial aplicada a redes ópticas no Laboratório de Eletromagnetismo Aplicado (LEA) da UFPA, vulgo: [AI4OpticalNets](https://github.com/AI4OpticalNets). Gosto de ter um desafio para entender e construir uma possível solução que funcione de verdade.
+Pesquisadora no Laboratório de Eletromagnetismo Aplicado (LEA) da UFPA na linha de Inteligência Artificial aplicada a redes ópticas, vulgo: [AI4OpticalNets](https://github.com/AI4OpticalNets). Gosto de ter um desafio para entender e construir uma possível solução que funcione de verdade.
 
 ### 🔬 Pesquisa
 - **Redes ópticas:** detecção de falhas por meio da aplicação de algoritmos de aprendizado semissupervisionado em ambientes de escassez de dados.
@@ -22,7 +22,7 @@ Pesquisadora na linha de Inteligência Artificial aplicada a redes ópticas no L
 |---|---|---|
 | [RAG para redes ópticas](https://github.com/elleoliveir/rag-optical-monitoring) | Perguntas em linguagem natural sobre telemetria de rede óptica, comparando respostas com e sem RAG | Python · FAISS · Ollama |
 | [Chatbot com LLM local](https://github.com/elleoliveir/chatbot-llm-local) | Chatbot com Llama 3.2 rodando no Ollama, com histórico persistente | Python · Ollama |
-| [UFPA Digital](https://github.com/elleoliveir/UFPA-digital) | Assistente web para dúvidas sobre regimento e editais da UFPA | Python · Flask · LangChain |
+| [UFPA Digital *(em desenvolvimento)* ](https://github.com/elleoliveir/UFPA-digital) | Assistente web para dúvidas sobre regimento e editais da UFPA | Python · Flask · LangChain |
 | [RL no FrozenLake](https://github.com/elleoliveir/projetos-RL) | Comparação entre PPO, A2C e DQN em ambiente estocástico | Python · Gymnasium · Stable-Baselines3 |
 | [Marble Time Rush](https://github.com/elleoliveir/marble-run) | Jogo 3D sem engine, com shadow mapping, física e editor de fases | C++ · OpenGL · GLSL |
 | [Missão Espacial](https://github.com/Filipecorr34/Missao-Espacial) | Jogo 2D com motor gráfico próprio e shaders GLSL | Python · OpenGL |

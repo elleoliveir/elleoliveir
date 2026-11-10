@@ -10,7 +10,7 @@
 
 🚩 INTP - PEIXES ♓
 
-Pesquisadora em Inteligência Artificial aplicada a redes ópticas no Laboratório de Eletromagnetismo Aplicado (LEA) da UFPA, vulgo: href="[github](https://github.com/AI4OpticalNets)">AI4OpticalNets</a>. Gosto de pegar um problema bagunçado, entender os dados e construir algo que funcione de verdade.
+Pesquisadora em Inteligência Artificial aplicada a redes ópticas no Laboratório de Eletromagnetismo Aplicado (LEA) da UFPA, vulgo: "[AI4OpticalNets](https://github.com/AI4OpticalNets)". Gosto de pegar um problema bagunçado, entender os dados e construir algo que funcione de verdade.
 
 ### 🔬 Pesquisa
 - **Redes ópticas:** detecção de falhas com aprendizado semissupervisionado (PCA, KPCA, OCSVM e clustering hierárquico), inclusive com pouquíssimos dados de treino

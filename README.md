@@ -17,7 +17,7 @@ Pesquisadora em Machine Learning no LEA/UFPA (bolsista CNPq), formando em Engenh
 ### 🛠️ Projetos
 | Projeto | O que é | Stack |
 |---|---|---|
-| [Chatbot com LLM local](https://github.com/elleoliveir/meu-projeto-lea) | Chatbot com Llama 3.2 rodando no Ollama, com histórico persistente | Python · Ollama |
+| [Chatbot com LLM local](https://github.com/elleoliveir/chatbot-llm-local) | Chatbot com Llama 3.2 rodando no Ollama, com histórico persistente | Python · Ollama |
 | Zetta *(repositório da equipe, privado)* | App que detecta sonolência e distração de motoristas | Flask · OpenCV · MediaPipe · React Native |
 | [Missão Espacial](https://github.com/Filipecorr34/Missao-Espacial) | Jogo 2D com motor gráfico próprio e shaders GLSL | Python · OpenGL |
 | Assistente com RAG *(em breve)* | Responde dúvidas com base nas diretrizes oficiais da UFPA | Python · LLM local · RAG |

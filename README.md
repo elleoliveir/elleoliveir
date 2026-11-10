@@ -40,7 +40,6 @@ Pesquisadora em Machine Learning no LEA/UFPA (bolsista CNPq), formando em Engenh
 
 ### 📊 Estatísticas
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elleoliveir&layout=compact&hide_border=true&title_color=6a4fb8&text_color=8b85a0&bg_color=00000000" alt="Linguagens mais usadas">
   <img height="160" src="https://streak-stats.demolab.com/?user=elleoliveir&hide_border=true&ring=6a4fb8&fire=f2c94c&currStreakLabel=6a4fb8&background=00000000" alt="Sequência de contribuições">
 </p>
 

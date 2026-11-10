@@ -3,16 +3,16 @@
 # Bem-vindo ao pequeno mundo de Adry 👋
 
 <a href="https://github.com/elleoliveir">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=900&color=6A4FB8&center=true&vCenter=true&width=520&lines=Engenheira+da+Computa%C3%A7%C3%A3o+%40+UFPA;Machine+Learning+%2B+detec%C3%A7%C3%A3o+de+anomalias;LLMs+locais+e+RAG;Rob%C3%B3tica%2C+jogos+e+ensino+de+programa%C3%A7%C3%A3o" alt="Engenheira da Computação 🫦">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=900&color=6A4FB8&center=true&vCenter=true&width=520&lines=Engenheira+da+Computa%C3%A7%C3%A3o+%40+UFPA;Machine+Learning;Arrisco+no+LLMs;Rob%C3%B3tica%2C+jogos+e+ensino+de+programa%C3%A7%C3%A3o" alt="Engenheira da Computação 🫦">
 </a>
 
 </div>
 
-Pesquisadora em Machine Learning no LEA/UFPA (bolsista CNPq), formando em Engenharia da Computação em dez/2026 e começando o mestrado no PPGEE/UFPA em Inteligência Computacional. Gosto de pegar um problema bagunçado, entender os dados e construir algo que funcione de verdade.
+Pesquisadora em Inteligência Artificial aplicada a redes ópticas no Laboratório de Eletromagnetismo Aplicado da UFPA (bolsista do CNPq), formanda em Engenharia da Computação em dez/2026 e iniciando o mestrado no PPGEE/UFPA em Inteligência Computacional. Gosto de pegar um problema, entender suas raízes e construir uma solução que (talvez) funcione.
 
 ### 🔬 Pesquisa
-- **Redes ópticas:** detecção de falhas com aprendizado semissupervisionado (PCA, KPCA, OCSVM e clustering hierárquico), inclusive com pouquíssimos dados de treino
-- **Saúde:** análise de dados clínicos para triagem de risco de progressão da escoliose, tema que sigo no mestrado com visão computacional
+- **Redes ópticas:** detecção de falhas com aprendizado não supervisionado e semissupervisionado,  mais sobre isso <a href="http://lattes.cnpq.br/1980321616960828">aqui</a> ·.
+
 
 ### 🛠️ Projetos
 | Projeto | O que é | Stack |

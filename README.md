@@ -8,7 +8,9 @@
 
 </div>
 
-Pesquisadora em Machine Learning no LEA/UFPA (bolsista CNPq), formando em Engenharia da Computação em dez/2026 e começando o mestrado no PPGEE/UFPA em Inteligência Computacional. Gosto de pegar um problema bagunçado, entender os dados e construir algo que funcione de verdade.
+🚩 INTP - PEIXES ♓
+
+Pesquisadora em Inteligência Artificial aplicada a redes ópticas no Laboratório de Eletromagnetismo Aplicado (LEA) da UFPA, vulgo: href="[github](https://github.com/AI4OpticalNets)">AI4OpticalNets</a>. Gosto de pegar um problema bagunçado, entender os dados e construir algo que funcione de verdade.
 
 ### 🔬 Pesquisa
 - **Redes ópticas:** detecção de falhas com aprendizado semissupervisionado (PCA, KPCA, OCSVM e clustering hierárquico), inclusive com pouquíssimos dados de treino

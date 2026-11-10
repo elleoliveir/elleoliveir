@@ -10,18 +10,17 @@
 
 🚩 INTP - PEIXES ♓
 
-Pesquisadora em Inteligência Artificial aplicada a redes ópticas no Laboratório de Eletromagnetismo Aplicado (LEA) da UFPA, vulgo: "[AI4OpticalNets](https://github.com/AI4OpticalNets)". Gosto de pegar um problema bagunçado, entender os dados e construir algo que funcione de verdade.
+Pesquisadora em Inteligência Artificial aplicada a redes ópticas no Laboratório de Eletromagnetismo Aplicado (LEA) da UFPA, vulgo: [AI4OpticalNets](https://github.com/AI4OpticalNets). Gosto de pegar um problema bagunçado, entender os dados e construir algo que funcione de verdade.
 
 ### 🔬 Pesquisa
-- **Redes ópticas:** detecção de falhas com aprendizado semissupervisionado (PCA, KPCA, OCSVM e clustering hierárquico), inclusive com pouquíssimos dados de treino
-- **Saúde:** análise de dados clínicos para triagem de risco de progressão da escoliose, tema que sigo no mestrado com visão computacional
+- **Redes ópticas:** detecção de falhas por meio da aplicação de algoritmos de aprendizado semissupervisionado.
 
 ### 🛠️ Projetos
 | Projeto | O que é | Stack |
 |---|---|---|
 | [RAG para redes ópticas](https://github.com/elleoliveir/rag-optical-monitoring) | Perguntas em linguagem natural sobre telemetria de rede óptica, comparando respostas com e sem RAG | Python · FAISS · Ollama |
 | [Chatbot com LLM local](https://github.com/elleoliveir/chatbot-llm-local) | Chatbot com Llama 3.2 rodando no Ollama, com histórico persistente | Python · Ollama |
-| [UFPA Digital](https://github.com/elleoliveir/UFPA-digital) *(em desenvolvimento)* | Assistente web para dúvidas sobre regimento e editais da UFPA | Python · Flask · LangChain |
+| [UFPA Digital](https://github.com/elleoliveir/UFPA-digital) | Assistente web para dúvidas sobre regimento e editais da UFPA | Python · Flask · LangChain |
 | [RL no FrozenLake](https://github.com/elleoliveir/projetos-RL) | Comparação entre PPO, A2C e DQN em ambiente estocástico | Python · Gymnasium · Stable-Baselines3 |
 | [Marble Time Rush](https://github.com/elleoliveir/marble-run) | Jogo 3D sem engine, com shadow mapping, física e editor de fases | C++ · OpenGL · GLSL |
 | [Missão Espacial](https://github.com/Filipecorr34/Missao-Espacial) | Jogo 2D com motor gráfico próprio e shaders GLSL | Python · OpenGL |

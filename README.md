@@ -3,17 +3,19 @@
 # Bem-vindo ao pequeno mundo da Adry 👋
 
 <a href="https://github.com/elleoliveir">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=900&color=6A4FB8&center=true&vCenter=true&width=520&lines=Engenheira+da+Computa%C3%A7%C3%A3o+%40+UFPA;Machine+Learning+%2B+detec%C3%A7%C3%A3o+de+anomalias;LLMs+locais+e+RAG;Rob%C3%B3tica%2C+jogos+e+ensino+de+programa%C3%A7%C3%A3o" alt="Engenheira da Computação 🫦">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=900&color=6A4FB8&center=true&vCenter=true&width=520&lines=Engenheira+da+Computa%C3%A7%C3%A3o+%40+UFPA;Machine+Learning+%2B+detec%C3%A7%C3%A3o+de+anomalias;LLMs+locais+e+RAG;Rob%C3%B3tica%2C+jogos+e+ensino+de+programa%C3%A7%C3%A3o" alt="Engenheira da Computação 💻">
 </a>
 
 </div>
 
 🚩 INTP - PEIXES ♓
+ | 91% Engenheira da Computação - UFPA
+ | Futura Mestranda em Inteligência Computacional
 
-Pesquisadora em Inteligência Artificial aplicada a redes ópticas no Laboratório de Eletromagnetismo Aplicado (LEA) da UFPA, vulgo: [AI4OpticalNets](https://github.com/AI4OpticalNets). Gosto de pegar um problema bagunçado, entender os dados e construir algo que funcione de verdade.
+Pesquisadora na linha de Inteligência Artificial aplicada a redes ópticas no Laboratório de Eletromagnetismo Aplicado (LEA) da UFPA, vulgo: [AI4OpticalNets](https://github.com/AI4OpticalNets). Gosto de ter um desafio para entender e construir uma possível solução que funcione de verdade.
 
 ### 🔬 Pesquisa
-- **Redes ópticas:** detecção de falhas por meio da aplicação de algoritmos de aprendizado semissupervisionado.
+- **Redes ópticas:** detecção de falhas por meio da aplicação de algoritmos de aprendizado semissupervisionado em ambientes de escassez de dados.
 
 ### 🛠️ Projetos
 | Projeto | O que é | Stack |
@@ -39,8 +41,7 @@ Pesquisadora em Inteligência Artificial aplicada a redes ópticas no Laboratór
 - Fiz parte do **IAÇÁ**, o grupo feminino de robótica da UFPA, por 3 anos (fui capitã da equipe de programação em 2024). Por mais mulheres em cursos STEM, sempre.
 - Adoro ensinar: já ministrei minicursos de Python e de Arduino. 
 - Jogos e computação gráfica: shaders, pixel art e física feita à mão
-- Fã da sul-coreana mais linda do mundo, Kim Jisoo.
-- Passatempos: Assistir animes e jogar (amo um aramzinho no LoL e Tomb Raider) 
+- Fã da sul-coreana mais linda do mundo, Kim Jisoo. Passatempos: Assistir animes, jogar (amo um aramzinho no LoL e Tomb Raider) e curtir uma boa música.
 - Português nativo, inglês B2 e francês em andamento (A1, por enquanto).
 
 ### 📊 Estatísticas

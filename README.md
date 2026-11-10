@@ -35,11 +35,13 @@ Pesquisadora em Inteligência Artificial aplicada a redes ópticas no Laboratór
   <img src="https://skillicons.dev/icons?i=python,cpp,opencv,flask,react,nodejs,c,arduino,java,swift,git,github,latex&theme=light" alt="Python, C++, OpenCV, Flask, React Native, Node.js, C, Arduino, Java, Swift, Git, GitHub, LaTeX">
 </p>
 
-### 🌱 Fora do código
-- 🤖 Fiz parte do **IAÇÁ**, o grupo feminino de robótica da UFPA, por 3 anos (fui capitã da equipe de programação em 2024). Por mais mulheres em cursos STEM, sempre.
-- 👩‍🏫 Adoro ensinar: já ministrei minicursos de Python e de Arduino. 
-- 🎮 Jogos e computação gráfica: shaders, pixel art e física feita à mão
-- 🌍 Português nativo, inglês B2 e francês em andamento
+### MORE ABOUT ME
+- Fiz parte do **IAÇÁ**, o grupo feminino de robótica da UFPA, por 3 anos (fui capitã da equipe de programação em 2024). Por mais mulheres em cursos STEM, sempre.
+- Adoro ensinar: já ministrei minicursos de Python e de Arduino. 
+- Jogos e computação gráfica: shaders, pixel art e física feita à mão
+- Fã da sul-coreana mais linda do mundo, Kim Jisoo.
+- Passatempos: Assistir animes e jogar (amo um aramzinho no LoL e Tomb Raider) 
+- Português nativo, inglês B2 e francês em andamento (A1, por enquanto).
 
 ### 📊 Estatísticas
 <p>

@@ -3,7 +3,7 @@
 # Bem-vindo ao pequeno mundo da Adry 👋
 
 <a href="https://github.com/elleoliveir">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=900&color=6A4FB8&center=true&vCenter=true&width=520&lines=Engenheira+da+Computa%C3%A7%C3%A3o+%40+UFPA;Pesquisadora+CNPq;Aspiring+AI+Engineer" alt="Engenheira da Computação 💻">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=900&color=6A4FB8&center=true&vCenter=true&width=520&lines=Engenharia+da+Computa%C3%A7%C3%A3o+%40+UFPA;Pesquisadora+CNPq;Aspiring+AI+Engineer" alt="Engenheira da Computação 💻">
 </a>
 
 </div>
